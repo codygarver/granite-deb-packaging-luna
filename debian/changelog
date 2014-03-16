@@ -1,4 +1,10 @@
-granite (0.2.3) UNRELEASED; urgency=low
+granite (0.2.3.1) precise; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Sun, 16 Mar 2014 17:24:14 -0500
+
+granite (0.2.3) precise; urgency=low
 
   * New upstream release.
 
